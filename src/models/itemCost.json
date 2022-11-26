@@ -1,0 +1,11 @@
+{
+ "Items": {
+      "Shirt": 1,
+      "Pants": 2,
+      "Cookies": 25,
+      "FishingRod": 10000,
+      "CommonFish": 5,
+      "RareFish": 6,
+      "MythicFish": 7
+    }
+}
